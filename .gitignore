@@ -1,0 +1,6 @@
+*.class
+*.war
+*.ear
+*.jar
+.idea
+/src/test
