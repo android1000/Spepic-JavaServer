@@ -1,6 +1,20 @@
+### Java ###
+
+/*/bin/
+/*/*/bin/*
+/*/test-bin/
+/*/bin-test/
+*.log
 *.class
-*.war
-*.ear
-*.jar
-.idea
-/src/test
+**/test-reports/
+**/test-it-reports/
+**/*.local.properties
+**/*.local.yaml
+*.patch
+
+### Intellij ###
+
+.ideaDataSources/
+dataSources/
+.idea/
+/out/
